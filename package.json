@@ -1,0 +1,24 @@
+{
+  "name": "practice-writing-unittests-joseph-r",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cart.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jraczynski6/practice-writing-unitTests-Joseph-R.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jraczynski6/practice-writing-unitTests-Joseph-R/issues"
+  },
+  "homepage": "https://github.com/jraczynski6/practice-writing-unitTests-Joseph-R#readme",
+  "devDependencies": {
+    "jest": "^30.1.3"
+  }
+}
